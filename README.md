@@ -6,6 +6,8 @@ El contenedor y Funcion de Azure se encuentran apagados para no cunsumir credito
 
 Link EndPoint (GET & POST): https://taskplanner2-ieti.azurewebsites.net/api/tasks/?code=/IePM5x2cWIzF0FbuSSKG0vxg58sMMtnbvJn6L16h7U1BByqdUZ/Sw==
 
+Se debe usar el navegador de Firefox con la extensión CORS habilitada
+
 Link FrontEnd: https://taskplannerfrontend2.herokuapp.com/
 
 Link RepoFrontEnd: https://github.com/JuanNavarroJ/IETI-Lab7-TaskPlannerFrontend2
